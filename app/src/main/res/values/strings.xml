@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pr22_PR-33_GagarinovLev</string>
+    <string name="error_empty_city">Ошибка! Пожалуйста, заполните город!</string>
+    <string name="enter_city">Введите название города:</string>
+    <string name="get_info">Получить информацию</string>
+    <string name="error_unknown_city">Ошибка! Город не найден!</string>
+    <string name="city">Город:</string>
+    <string name="temperature">Температура</string>
+    <string name="pressure">Давление:</string>
+    <string name="wind_speed">Скорость ветра:</string>
+</resources>
